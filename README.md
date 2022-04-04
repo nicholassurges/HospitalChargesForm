@@ -5,11 +5,11 @@ Visual Basic
 Hospital Charges
 Create an application that calculates the total cost of a hospital stay. The application
 should accept the following input:
-� The number of days spent in the hospital, as an integer
-� The amount of medication charges
-� The amount of surgical charges
-� The amount of lab fees
-� The amount of physical rehabilitation charges
+The number of days spent in the hospital, as an integer
+The amount of medication charges
+The amount of surgical charges
+The amount of lab fees
+The amount of physical rehabilitation charges
 The hospital charges $350 per day. The application�s form should resemble the one
 shown in Figure 6-23.
 Create the following functions:
